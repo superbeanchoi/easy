@@ -3,6 +3,7 @@
 <br>
 
 <strong>참여 인원</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;4명</span><br>
+<strong>개발 기간</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;2023.11.22 - 2023.12.05 (2주)</span><br>
 <strong>개발 툴</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;Er-win</span><br>
 <strong>개발 언어</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;Oracle</span><br>
 <br>
